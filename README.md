@@ -1,4 +1,3 @@
-Here’s a clear and concise `README.md` for your car price prediction project:
 
 ---
 
